@@ -29,7 +29,7 @@ Summary of your role
 - Accomplishment
 - Accomplishment
 
-## University Name 2 (City, State)
+## University of Pennsylvania (philadelphia, PA)
 *[University 2][] description, particularly if not well-known.*
 
 ** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
