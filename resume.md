@@ -1,4 +1,4 @@
-# Name
+# SW
 
 3950 University Way NE, Seattle, WA
 
@@ -12,11 +12,11 @@ http://www.linkedin.com/in/yourname
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+PhD candidate in Built Environments.
 
 # Work Experience (only last 10 years)
 
-## University Name 1 (City, State)
+## University of Washington (Seattle, WA)
 
 * [University 1][] description, particularly if not well-known.*
 
