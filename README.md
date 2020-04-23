@@ -1,1 +1,1 @@
-# test.github.io
+# This is a resume site using Bootstramp template. 
